@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929074545896",
+    "firebase_url": "https://ankitatannu-fb990.firebaseio.com",
+    "project_id": "ankitatannu-fb990",
+    "storage_bucket": "ankitatannu-fb990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929074545896:android:a9f3a5d567add9d0",
+        "android_client_info": {
+          "package_name": "tannu.ankita.eatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929074545896-eu9m2alubdusj44k0d0ctruils43e1vu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tannu.ankita.eatit",
+            "certificate_hash": "27998015ecd9e65de59aee5b4d83565e05baee58"
+          }
+        },
+        {
+          "client_id": "929074545896-nkv43gac3k009dhmmio0moo7s97amfer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApQlOvpW3F0_yfP-n3AZ6gUoRP7C9ZCGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929074545896-nkv43gac3k009dhmmio0moo7s97amfer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
